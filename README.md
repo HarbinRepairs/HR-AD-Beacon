@@ -13,4 +13,4 @@ The logo.jpg file in /data is the image that will be displayed on the left colum
 
 ### Bill of Materials
 
-https://github.com/HarbinRepairs/HR-AD-Beacon/blob/master/HR%20AD%20Beacon%20V1.0/Bill%20Of%20Materials.xlsx
+https://github.com/HarbinRepairs/HR-AD-Beacon/blob/master/HR%20AD%20Beacon%20V1.0/Bill%20of%20Materials.xlsx
