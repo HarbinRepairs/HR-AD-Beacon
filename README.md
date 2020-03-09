@@ -1,6 +1,9 @@
-# HR Ad Beacon
+# HR Ad Beacon V1.0
 
 ![beacon](HR%20AD%20Beacon%20V1.0/images/beacon.jpg)
+
+### Don't want to build your own?
+Get an Ad Beacon from our store: https://store.harbinrepairs.com/index.php/product/hr-ad-beacon/
 
 ## Warnings
 THIS INFORMATION IS PROVIDED BY HARBIN REPAIRS AS-IS WITH ABSOLUTELY NO WARRANTY OF ANY KIND, USE AT YOUR OWN RISK. From this point on we do not provide any customer support.
